@@ -1,0 +1,98 @@
+{
+  "report_name": "Turkey 2008 Human Development Report: Youth in Turkey",
+  "indicators": {
+    "country": "Turkey",
+    "report_year": 2008,
+    "report_theme": "Youth in Turkey",
+    "youth_age_group": "15-24",
+    "youth_population_million": 12.4,
+    "youth_share_percent": 17.6,
+    "survey_sample": 3322,
+    "average_economic_growth_2002_2006_percent": 7.5,
+    "unemployment_rate_approx_percent": 10,
+    "female_labour_force_participation_percent": 26,
+    "idle_youth_million": 5.0,
+    "young_women_neither_education_nor_work_million": 2.2,
+    "demographic_window_until": 2040
+  },
+  "manual_findings": [
+    "Turkey has a large young population and an important demographic opportunity.",
+    "Youth unemployment is a major development challenge.",
+    "Education access, quality, and vocational training need improvement.",
+    "Young women face stronger barriers in education and employment.",
+    "Youth participation in society and decision-making needs to increase.",
+    "Economic growth improved, but social development problems remained."
+  ],
+  "themes": [
+    {
+      "theme": "Education",
+      "keyword_count": 1235,
+      "keywords": "education, school, student, university, vocational"
+    },
+    {
+      "theme": "Employment",
+      "keyword_count": 926,
+      "keywords": "employment, unemployment, job, work, labour"
+    },
+    {
+      "theme": "Gender",
+      "keyword_count": 272,
+      "keywords": "women, female, girls, gender"
+    },
+    {
+      "theme": "Health",
+      "keyword_count": 151,
+      "keywords": "health, hospital, disease, smoking, drug"
+    },
+    {
+      "theme": "Economy",
+      "keyword_count": 146,
+      "keywords": "economy, growth, income, GDP"
+    },
+    {
+      "theme": "Inequality",
+      "keyword_count": 94,
+      "keywords": "poverty, poor, inequality, disadvantaged"
+    }
+  ],
+  "strengths": [
+    "Large young population",
+    "Strong economic growth after 2001 crisis",
+    "Potential demographic window until 2040",
+    "Growing attention to youth policy",
+    "Evidence from youth survey and focus groups"
+  ],
+  "challenges": [
+    "High youth unemployment",
+    "Low female labour force participation",
+    "Large number of idle youth",
+    "Education quality and access issues",
+    "Limited youth participation"
+  ],
+  "model_comparison": [
+    {
+      "model": "Llama 3.2",
+      "role": "Main extraction",
+      "completeness_score": 4,
+      "consistency_score": 4,
+      "json_quality_score": 4,
+      "comment": "Good for simple summaries and extraction"
+    },
+    {
+      "model": "Mistral",
+      "role": "Evaluation",
+      "completeness_score": 5,
+      "consistency_score": 5,
+      "json_quality_score": 5,
+      "comment": "Strong for evaluation and checking consistency"
+    },
+    {
+      "model": "Qwen 2.5",
+      "role": "Alternative extraction",
+      "completeness_score": 4,
+      "consistency_score": 3,
+      "json_quality_score": 3,
+      "comment": "Useful alternative but sometimes verbose"
+    }
+  ]
+}

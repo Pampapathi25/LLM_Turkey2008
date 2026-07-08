@@ -1,0 +1,5 @@
+ 1. Completeness: 5 (All key findings and indicators are present in the report)
+2. Factual consistency: 5 (The report provides clear and consistent information about the findings)
+3. Usefulness for dashboard: 4.5 (The report provides valuable insights for creating a dashboard to monitor youth issues in Turkey, with some areas requiring further specific data)
+4. Clarity: 5 (The report is easy to understand and straightforward in its presentation of information)
+5. Limitations: 3.5 (While the report provides comprehensive findings on various themes, it does not provide specific data on certain key indicators such as budget allocations for education modernization or employment policies, making it difficult to measure progress over time)

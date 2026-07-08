@@ -1,0 +1,8 @@
+{
+    "extraction_model": "Llama 3 / local LLM",
+    "evaluation_model": "Mistral / local LLM",
+    "completeness_score": 4,
+    "consistency_score": 4,
+    "factual_alignment_score": 4,
+    "comment": "The extracted outputs cover the main report themes, indicators, chapter summaries, strengths and challenges. Some numerical values are manually verified because PDF tables can be difficult for LLMs."
+}

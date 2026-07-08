@@ -1,0 +1,4 @@
+model,role,completeness_score,consistency_score,json_quality_score,comment
+Llama 3.2,Main extraction,4,4,4,Good for simple summaries and extraction
+Mistral,Evaluation,5,5,5,Strong for evaluation and checking consistency
+Qwen 2.5,Alternative extraction,4,3,3,Useful alternative but sometimes verbose

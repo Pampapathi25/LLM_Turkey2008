@@ -1,0 +1,15 @@
+{
+  "country": "Turkey",
+  "report_year": 2008,
+  "report_theme": "Youth in Turkey",
+  "youth_age_group": "15-24",
+  "youth_population_million": 12.4,
+  "youth_share_percent": 17.6,
+  "survey_sample": 3322,
+  "average_economic_growth_2002_2006_percent": 7.5,
+  "unemployment_rate_approx_percent": 10,
+  "female_labour_force_participation_percent": 26,
+  "idle_youth_million": 5.0,
+  "young_women_neither_education_nor_work_million": 2.2,
+  "demographic_window_until": 2040
+}
